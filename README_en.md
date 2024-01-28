@@ -1,6 +1,6 @@
 <!--- Banner -->
 <p align="center">
-  <img src="https://github.com/hennessy-dev/Imagenes/blob/main/Banners_Con_Campus/banner_es.png" alt="Banner" width="100%">
+  <img src="https://github.com/hennessy-dev/Imagenes/blob/main/Banners_Con_Campus/banner_en.png" alt="Banner" width="100%">
 </p>
 
 # Hey, what's up! 👋
